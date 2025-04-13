@@ -1,3 +1,19 @@
+# Step to create React app
+
+Step1: Install one time Vite
+npm install vite@latest (Follow the step to create react app)
+
+Step2: Step1 will create the App folder then move to App folder location (cd React-App)
+
+Step3: npm install
+
+Step4: To run the React (npm run dev)
+
+ 
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
